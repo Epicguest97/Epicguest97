@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am 19 year old from Greater Noida !<br>Currently working on a bunch of projects.<br>Interested in Cybersecurity and ML
+Hi I a am 19 year old from Greater Noida !<br>Currently working on a bunch of projects.<br>Interested in Cybersecurity and ML
 
 
 ## 🌐 Socials:
