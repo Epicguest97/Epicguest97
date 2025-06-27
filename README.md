@@ -1,16 +1,15 @@
 # About Me
 
-Hi, I’m a 19-year-old founder from Greater Noida, India — currently building **[MoonMovement](https://moonmovement.in)**, a platform shaping the future of startup communities and data-driven ecosystems in India.
-
-I’m passionate about **Backend Engineering**, **Cloud Infrastructure (AWS, Kubernetes, CI/CD)**, and building at the intersection of **technology, data, and community**. I enjoy designing scalable systems, automating workflows, and using data to empower early-stage founders across India.
-
----
+19. From Noida.  
+Mostly backend. Sometimes cloud.  
+I build things that scale, break, and fix themselves.  
+You’ve probably used something I’ve touched. You just don’t know it.  
+[moonmovement.in](https://moonmovement.in) — don’t ask.
 
 ## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-kaushik-7b3984337/)
 
----
 
 ## Tech Stack:
 
