@@ -1,6 +1,6 @@
 # About Me
 
-19. From Noida.  
+19 From Noida.  
 Mostly backend. Sometimes cloud.  
 I build things that scale, break, and fix themselves.  
 You’ve probably used something I’ve touched. You just don’t know it.  
