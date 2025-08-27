@@ -4,14 +4,11 @@
 
 I’m passionate about building scalable software, exploring AI/ML, and diving deep into systems programming. Currently, I’m working on projects ranging from **full-stack applications** to **AI/ML research** and **cybersecurity experiments**.  
 
----
-
 ## 🔭 What I’m currently working on  
 - 🚧 **MoonMovement** – A community platform for Indian startups (Node.js + PostgreSQL + React)  
 - 🛠 **BugTrack** – Full-stack issue management system (inspired by Jira)  
 - 📖 Learning **Rust** and **Quantum Computing**  
 
----
 
 ## 🌱 What I’m learning  
 - Advanced **AI/ML techniques** & document QA systems (LangChain, LLMs)  
