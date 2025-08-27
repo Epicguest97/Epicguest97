@@ -1,10 +1,25 @@
-# About Me
+# Hi, I'm Mehul 👋  
 
-19 From Noida.  
-Mostly backend. Sometimes cloud.  
-I build things that scale, break, and fix themselves.  
-You’ve probably used something I’ve touched. You just don’t know it.  
-[moonmovement.in](https://moonmovement.in) — don’t ask.
+🎓 Computer Science Student | 💻 Developer | 🚀 Tech Enthusiast  
+
+I’m passionate about building scalable software, exploring AI/ML, and diving deep into systems programming. Currently, I’m working on projects ranging from **full-stack applications** to **AI/ML research** and **cybersecurity experiments**.  
+
+---
+
+## 🔭 What I’m currently working on  
+- 🚧 **MoonMovement** – A community platform for Indian startups (Node.js + PostgreSQL + React)  
+- 🛠 **BugTrack** – Full-stack issue management system (inspired by Jira)  
+- 🔒 Cybersecurity summer school program (mentoring juniors)  
+- 📖 Learning **Rust** and **Quantum Computing**  
+
+---
+
+## 🌱 What I’m learning  
+- Advanced **AI/ML techniques** & document QA systems (LangChain, LLMs)  
+- **Systems programming** with Rust  
+- Cloud deployments with **AWS**  
+- Computer networks using **GNS3**  
+
 
 ## Socials:
 
