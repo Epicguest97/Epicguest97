@@ -9,7 +9,6 @@ I’m passionate about building scalable software, exploring AI/ML, and diving d
 ## 🔭 What I’m currently working on  
 - 🚧 **MoonMovement** – A community platform for Indian startups (Node.js + PostgreSQL + React)  
 - 🛠 **BugTrack** – Full-stack issue management system (inspired by Jira)  
-- 🔒 Cybersecurity summer school program (mentoring juniors)  
 - 📖 Learning **Rust** and **Quantum Computing**  
 
 ---
